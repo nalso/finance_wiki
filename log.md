@@ -18,3 +18,7 @@
 - 원본: raw/articles/20261127-user-supplement-2.md
 - 갱신: wiki/concepts/account-tax-comparison.md, wiki/strategies/cash-20eok-tax-strategy.md
 - 이동: 슬라이드 raw/reports/finance-tax-slides.html → reports/finance-tax-slides.html (내용 갱신)
+
+## [2026-11-27] ingest | 사용자 보충 설명 3 (ISA 총 한도 1억, 최대 적립 3~4억)
+- 원본: raw/articles/20261127-user-supplement-3.md
+- 갱신: wiki 2개 페이지, reports/finance-tax-slides.html

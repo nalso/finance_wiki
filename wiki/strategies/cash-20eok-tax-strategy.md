@@ -3,7 +3,7 @@ title: 현금 20억 운용 — 종합과세·건강보험 대응 전략
 type: strategy
 tags: [세금, 종합과세, 건강보험, 채권, 법인, 해외주식]
 updated: 2026-11-27
-sources: [raw/data/20261127_104555678.jpg, raw/data/20261127_104601993.jpg, raw/articles/20261127-user-supplement.md, raw/articles/20261127-user-supplement-2.md]
+sources: [raw/data/20261127_104555678.jpg, raw/data/20261127_104601993.jpg, raw/articles/20261127-user-supplement.md, raw/articles/20261127-user-supplement-2.md, raw/articles/20261127-user-supplement-3.md]
 ---
 
 # 현금 20억 운용 — 종합과세·건강보험 대응
@@ -16,7 +16,8 @@ sources: [raw/data/20261127_104555678.jpg, raw/data/20261127_104601993.jpg, raw/
 ### 1. IRP·ISA·개인연금부터 채우기
 - 세액공제 목적이 아니라 연금계좌를 채우는 것이 목적. **IRP + 개인연금 합 연 1,800만원, ISA 연 2,000만원**. (raw/articles/20261127-user-supplement-2.md)
 - 인출은 연 1,500만원 기준 ([[account-tax-comparison]]).
-- 최대 적립 규모 **3~4억** (필기: "최대 3~4억").
+- **ISA 총 납입 한도는 1억**. (raw/articles/20261127-user-supplement-3.md)
+- 십수년 동안 매년 한도를 다 채워도 최대 적립 규모는 **3~4억** (필기: "최대 3~4억", raw/articles/20261127-user-supplement-3.md).
 
 ### 2. 과세표준 1,000만원 이하로 관리 (필기 "16억" 옆에 1% = 1,600만원, 0.3% = 480만원 표기 — 의미 미확인)
 **2-1. 채권**
